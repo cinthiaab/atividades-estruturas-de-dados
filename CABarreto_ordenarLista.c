@@ -1,7 +1,7 @@
 /*  Exemplo de medição de tempo de execução
   Arquivo: CABarreto_ordenarLista.c
   Autor: Cinthia Alves Barreto
-  Date: 10/02/09 09:01
+  Date: 10/02/2023 09:01
   Descrição: Este programa implementa algoritmos elementares de ordenação.
 */
 
